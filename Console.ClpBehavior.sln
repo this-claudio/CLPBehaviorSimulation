@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console.ClpBehavior", "Console.ClpBehavior\Console.ClpBehavior.csproj", "{AAC79B8A-551F-499A-BBCB-8706B6451385}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllBehavior", "TornoBehavior\AllBehavior.csproj", "{EAF1E92C-0BCE-4CBF-A910-B2F5FC15A31D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAC79B8A-551F-499A-BBCB-8706B6451385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC79B8A-551F-499A-BBCB-8706B6451385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAC79B8A-551F-499A-BBCB-8706B6451385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC79B8A-551F-499A-BBCB-8706B6451385}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAF1E92C-0BCE-4CBF-A910-B2F5FC15A31D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF1E92C-0BCE-4CBF-A910-B2F5FC15A31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF1E92C-0BCE-4CBF-A910-B2F5FC15A31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF1E92C-0BCE-4CBF-A910-B2F5FC15A31D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A5A881E-5049-431D-A2B8-A28A0CF3D5D7}
+	EndGlobalSection
+EndGlobal

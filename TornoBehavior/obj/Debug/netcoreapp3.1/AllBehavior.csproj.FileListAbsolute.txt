@@ -1,0 +1,13 @@
+C:\Users\silvacla\Google Drive\Aulas\2022-1\Redes Industriais de Comunicação\Prova 3 - Apresentação 30-05-22\Console.ClpBehavior\TornoBehavior\bin\Debug\netcoreapp3.1\AllBehavior.deps.json
+C:\Users\silvacla\Google Drive\Aulas\2022-1\Redes Industriais de Comunicação\Prova 3 - Apresentação 30-05-22\Console.ClpBehavior\TornoBehavior\bin\Debug\netcoreapp3.1\AllBehavior.dll
+C:\Users\silvacla\Google Drive\Aulas\2022-1\Redes Industriais de Comunicação\Prova 3 - Apresentação 30-05-22\Console.ClpBehavior\TornoBehavior\bin\Debug\netcoreapp3.1\AllBehavior.pdb
+C:\Users\silvacla\Google Drive\Aulas\2022-1\Redes Industriais de Comunicação\Prova 3 - Apresentação 30-05-22\Console.ClpBehavior\TornoBehavior\obj\Debug\netcoreapp3.1\AllBehavior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silvacla\Google Drive\Aulas\2022-1\Redes Industriais de Comunicação\Prova 3 - Apresentação 30-05-22\Console.ClpBehavior\TornoBehavior\obj\Debug\netcoreapp3.1\AllBehavior.AssemblyInfoInputs.cache
+C:\Users\silvacla\Google Drive\Aulas\2022-1\Redes Industriais de Comunicação\Prova 3 - Apresentação 30-05-22\Console.ClpBehavior\TornoBehavior\obj\Debug\netcoreapp3.1\AllBehavior.AssemblyInfo.cs
+C:\Users\silvacla\Google Drive\Aulas\2022-1\Redes Industriais de Comunicação\Prova 3 - Apresentação 30-05-22\Console.ClpBehavior\TornoBehavior\obj\Debug\netcoreapp3.1\AllBehavior.csproj.CoreCompileInputs.cache
+C:\Users\silvacla\Google Drive\Aulas\2022-1\Redes Industriais de Comunicação\Prova 3 - Apresentação 30-05-22\Console.ClpBehavior\TornoBehavior\obj\Debug\netcoreapp3.1\AllBehavior.dll
+C:\Users\silvacla\Google Drive\Aulas\2022-1\Redes Industriais de Comunicação\Prova 3 - Apresentação 30-05-22\Console.ClpBehavior\TornoBehavior\obj\Debug\netcoreapp3.1\AllBehavior.pdb
+C:\Users\silvacla\Google Drive\Aulas\2022-1\Redes Industriais de Comunicação\Prova 3 - Apresentação 30-05-22\Console.ClpBehavior\TornoBehavior\bin\Debug\netcoreapp3.1\OpcUaClient.dll
+C:\Users\silvacla\Google Drive\Aulas\2022-1\Redes Industriais de Comunicação\Prova 3 - Apresentação 30-05-22\Console.ClpBehavior\TornoBehavior\bin\Debug\netcoreapp3.1\OpcUaClient.pdb
+C:\Users\silvacla\Google Drive\Aulas\2022-1\Redes Industriais de Comunicação\Prova 3 - Apresentação 30-05-22\Console.ClpBehavior\TornoBehavior\obj\Debug\netcoreapp3.1\AllBehavior.csproj.CopyComplete
+C:\Users\silvacla\Google Drive\Aulas\2022-1\Redes Industriais de Comunicação\Prova 3 - Apresentação 30-05-22\Console.ClpBehavior\TornoBehavior\obj\Debug\netcoreapp3.1\AllBehavior.csproj.AssemblyReference.cache

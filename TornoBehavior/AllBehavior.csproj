@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="OPCFoundation.NetStandard.Opc.Ua.Client" Version="1.4.369.30" />
+    <PackageReference Include="OPCFoundation.NetStandard.Opc.Ua.Configuration" Version="1.4.369.30" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="OpcUaClient">
+      <HintPath>..\..\OpcUaClient\OpcUaClient\bin\Debug\netcoreapp3.1\OpcUaClient.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
